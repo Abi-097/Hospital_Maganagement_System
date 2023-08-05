@@ -1,0 +1,38 @@
+.navbar-image{
+    display: flex;
+    justify-content: center !important;
+    margin: auto;
+  }
+
+  .navbar-text{
+    font-size: large;
+    font-weight: 600;
+  }
+
+  #addButtonAlign{
+    display: flex;
+    justify-content: end;
+
+  }
+
+  #navbar-effect {
+    margin: 15px !important;
+    padding: 5px;
+    border-radius: 12px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, .1);
+    background-color: #f8f9fa;
+  }
+
+  .label-change{
+    font-size: 17px;
+    font-weight: bold;
+    color: #95999d;
+  }
+
+  .textfield,.dropdown{
+    width:100%;
+    border-radius: 7px;
+    height: 40px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .1);
+    border: #95999d 1px solid;
+  }

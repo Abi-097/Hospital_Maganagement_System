@@ -1,0 +1,62 @@
+/* card */
+/* .main-body{
+  
+} */
+.mingle-card {
+    box-sizing: border-box;
+    width: 190px;
+    height: 254px;
+    background: rgba(217, 217, 217, 0.58);
+    border: 1px solid white;
+    box-shadow: 12px 17px 51px rgba(0, 0, 0, 0.22);
+    backdrop-filter: blur(6px);
+    border-radius: 17px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.5s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+    font-weight: bolder;
+    color: black;
+    margin-bottom: 10px;
+  }
+  
+  .mingle-card:hover {
+    border: 1px solid black;
+    transform: scale(1.05);
+  }
+  
+  .mingle-card:active {
+    transform: scale(0.95) rotateZ(1.7deg);
+  }
+
+  .navbar-image{
+    display: flex;
+    justify-content: center !important;
+    margin: auto;
+  }
+
+  #allcards{
+    margin-top: 5px;
+  }
+
+  .cards-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #footerMainCard{
+    margin: 15px;
+  }
+
+  #navbar-effect {
+    /* position: fixed; */
+    margin: 15px !important;
+    padding: 5px;
+    border-radius: 12px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, .1);
+    background-color: #f8f9fa;
+  }

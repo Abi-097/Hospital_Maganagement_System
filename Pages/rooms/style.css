@@ -1,0 +1,10 @@
+.navbar-image{
+    display: flex;
+    justify-content: center !important;
+    margin: auto;
+  }
+
+  .navbar-text{
+    font-size: large;
+    font-weight: 600;
+  }
